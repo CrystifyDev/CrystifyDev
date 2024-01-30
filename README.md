@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://fsn.xcdn.host/avataaars%20(4).png" width="128"/>
-  <h1>Hi! I'm <strong>meFqulted</strong></h1>
 
   <div id="badges">
   <a href="https://open.spotify.com/user/31zac733ctrjs4mxj7scgonicfgq">
