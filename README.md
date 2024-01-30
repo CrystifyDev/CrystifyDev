@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://fsn.xcdn.host/avataaars%20(4).png" width="128"/>
-
+  <br />
   <div id="badges">
   <a href="https://open.spotify.com/user/31zac733ctrjs4mxj7scgonicfgq">
     <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
